@@ -23,7 +23,7 @@ const Footer = () => (
           <span role="img" aria-label="love">
             ❤️
           </span>{' '}
-          by lastnamearya
+          by csc 226 group
         </p>
         <p>&copy; Headout Inc.</p>
       </div>
@@ -54,7 +54,7 @@ const Footer = () => (
         <h3>Contact</h3>
         <p>Feel free to get in touch via email:</p>
         <p style={{ color: '#4fc3f7', cursor: 'pointer' }}>
-          arya.jigyasu6815@gmail.com
+          csc226@gmail.com
         </p>
         <div className="social-media-contact">
           <img
